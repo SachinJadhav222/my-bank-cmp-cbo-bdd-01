@@ -1,0 +1,7 @@
+FROM trusted-registry.sbx.zone/servicing/br-regression-testing-base:node-8-alpine
+
+COPY ./gulpfile.js /www/
+COPY ./tests /www/tests
+
+ENTRYPOINT [ "npx", "wdio" ]
+

@@ -1,0 +1,12 @@
+FROM combined-registry.sbx.zone/node:9-alpine
+
+ENV http_proxy http://dmz-proxy-01.sandbox.local:3128
+ENV https_proxy http://dmz-proxy-01.sandbox.local:3128
+
+RUN apk update && \
+    apk add yarn python curl wget git-perl bash make gcc g++ linux-headers libgcc libstdc++
+
+RUN yarn --version
+
+ENV http_proxy ""
+ENV https_proxy ""

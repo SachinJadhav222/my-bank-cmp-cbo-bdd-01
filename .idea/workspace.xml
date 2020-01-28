@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0418725-e147-49a3-a709-1f1205a488c0" name="Default Changelist" comment="" />
+    <list id="ee6367ec-5a56-4f72-9abb-e98c8583347b" name="Revert: 732" comment="" />
+    <list id="9dc1a4eb-99bf-46b6-aa97-3da8b8504a4e" name="Revert: changes for ci" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cmp-cwa-bdd" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_253_client_admins_review_check_and_confirm_page.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_54_colleague_capture_user_details.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_37_check_and_confirm_client.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1449_PA_user_capture_user_details_validation.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1450_PA_user_navigation_buttons_for_journey.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1451_PA_user_details_captured_on_check_and_confirm_page.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1469_maker_colleague_view_workflow_in_pending_status_self_created.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1471_PA_user_modal_window_with_error_message_for_email_id_already_in_use.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1470_PA_user_Error_message_for_existing_User_name_or_email_ID_entered_for_PA_user.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_40_complete_admin_user_details.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lodash</find>
+      <find>json_placeholder_endpoint</find>
+      <find>callbackWithAssertion</find>
+      <find>setHeaders</find>
+      <find>self</find>
+      <find>const this = this;</find>
+      <find>fixturesDirectory</find>
+      <find>requestBody</find>
+      <find>domain</find>
+      <find>assertResponseCode</find>
+      <find>scenarioVariables</find>
+      <find>_apickli</find>
+      <find>Apickli.prototype</find>
+      <find>this.replaceVariables</find>
+      <find>this.apickli</find>
+      <find>sendRequest</find>
+      <find>options</find>
+      <find>Apickli.prototype.sendRequest</find>
+      <find>this.sendRequest</find>
+      <find>post</find>
+      <find>request</find>
+      <find>var</find>
+      <find>Newman Report</find>
+      <find>I Get the Cookie by Name:</find>
+      <find>workflow_search_page_heading</find>
+      <find>Newman</find>
+      <find>cmp</find>
+      <find>newman</find>
+      <find>mock_create_user_button</find>
+      <find>ci-cmp-cbo-bdd-test.cuke.conf</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>1471</replace>
+      <replace>1481</replace>
+      <replace>lastName</replace>
+      <replace>https://cmpadmin-st5.intranet.test.group:31200</replace>
+      <replace>environment_url+'</replace>
+      <replace>environment_url +'</replace>
+      <replace>continue_button</replace>
+      <replace>environment_base_url</replace>
+      <replace>this.Given</replace>
+      <replace>this.When</replace>
+      <replace>this.Then</replace>
+      <replace>apickli.Apickli</replace>
+      <replace>this.apiLib</replace>
+      <replace>1451</replace>
+      <replace>firstName</replace>
+      <replace>this.apickli</replace>
+      <replace>1472</replace>
+      <replace>1482</replace>
+      <replace>json_placeholder_endpoint_post</replace>
+      <replace>lodash</replace>
+      <replace>I set JSON Request body:</replace>
+      <replace>this.lodash</replace>
+      <replace>json_placeholder_api</replace>
+      <replace>thi</replace>
+      <replace>//const this=this;</replace>
+      <replace>Apickli</replace>
+      <replace>this</replace>
+      <replace>sendRequest</replace>
+      <replace>replaceVariables</replace>
+      <replace>const</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/tests/features/featureFiles/colleague</dir>
+      <dir>$PROJECT_DIR$/tests/features/featureFiles/customer</dir>
+      <dir>$PROJECT_DIR$/tests/reports</dir>
+      <dir>$PROJECT_DIR$/node_modules</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/tests/locators</dir>
+      <dir>$PROJECT_DIR$/tests/features</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests/postman-api-test/cmp-cbo-api.postman_collection.json" />
+        <option value="$PROJECT_DIR$/runtest-jenkins-test.sh" />
+        <option value="$PROJECT_DIR$/tests/conf/ci-colleague.cuke.conf.js" />
+        <option value="$PROJECT_DIR$/tests/locators/cbo-mast-head-navigation.yml" />
+        <option value="$PROJECT_DIR$/tests/locators/cwa-mast-head-navigation.yml" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_2081c_form_validation_for_client_create_user.feature" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/tests/features/support/world.js" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_2127_secure_logout_button_CWA.feature" />
+        <option value="$PROJECT_DIR$/tests/locators/mast-head-navigation.yml" />
+        <option value="$PROJECT_DIR$/tests/reports/postman-reports/api-test-report.html" />
+        <option value="$PROJECT_DIR$/node_modules/newman-reporter-html/lib/template-default.hbs" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/apickli-console-output.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/apickli-httpbin.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/apickli-mutual-tls.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/chaining.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/cmpcbo-999_APICKLI_user_client_details_endpoints.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/cmpcbo-1555_PA_user_client_details_endpoints.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/cmpcbo_1947_PA_user_verify_registration.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/dates.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/examples.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/soa-services/randomwords.feature" />
+        <option value="$PROJECT_DIR$/tests/locators/customer-page-01-user-details.yml" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_53_assign_user_to_bussiness_partner.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_73_assign_role_profile.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_74_check_and_confirm_new_user_details.feature" />
+        <option value="$PROJECT_DIR$/tests/postman-api-test/postman-test-runner.js" />
+        <option value="$PROJECT_DIR$/tests/features/support/wdio-steps-support.js" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_2170_help_and_support_icon_and_behaviour_for_CWA_pages.feature" />
+        <option value="$PROJECT_DIR$/tests/test-data/get-cookies.js" />
+        <option value="$PROJECT_DIR$/tests/test-data/get-headers.js" />
+        <option value="$PROJECT_DIR$/Jenkinsfile" />
+        <option value="$PROJECT_DIR$/tests/features/support/mutliple-cucumber-report.js" />
+        <option value="$PROJECT_DIR$/JenkinsfileSanityTest" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/04.nft/cmpcbo_74_Sanity_Test_check_and_confirm_new_user_details.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/03.sit-1/cmpcbo_74_Sanity_Test_check_and_confirm_new_user_details.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/02.st-5/cmpcbo_74_Sanity_Test_check_and_confirm_new_user_details.feature" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/tests/reports/postman-reports/cmp-cbo-api-test-report.html" />
+        <option value="$PROJECT_DIR$/tests/endpoints_&amp;_urls/testEnvironments.js" />
+        <option value="$PROJECT_DIR$/tests/conf/ci-sanity-test.cuke.conf.js" />
+        <option value="$PROJECT_DIR$/tests/features/support/beforeHook.js" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/01.sbx/cmpcbo_74_Sanity_Test_check_and_confirm_new_user_details.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/01.sbx/cmpcbo_356_Sanity_Test_primary_admin_colleague_journey.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/01.sbx/cmpcbo_708_Sanity_Test_edit_user_details_displayed_on_check_and_confirm_page.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/01.sbx/cmpcbo_1451_Sanity_Test_PA_user_details_captured_on_check_and_confirm_page.feature" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/01.sbx/cmpcbo_2081a_Sanity_Test_form_validation_for_colleague_create_client.feature" />
+        <option value="$PROJECT_DIR$/tests/features/step_definitions/action-steps.js" />
+        <option value="$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_2130_create_user_sessionTimeOut.feature" />
+        <option value="$PROJECT_DIR$/tests/conf/ci-customer.cuke.conf.js" />
+        <option value="$PROJECT_DIR$/tests/features/step_definitions/navigation-steps.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cmp-cwa-bdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmp-cwa-bdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmp-cwa-bdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmp-cwa-bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmp-cwa-bdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmp-cwa-bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmp-cwa-bdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmp-cwa-bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmp-cwa-bdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmp-cwa-bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="featureFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmp-cwa-bdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmp-cwa-bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="featureFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="colleague" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmp-cwa-bdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmp-cwa-bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="featureFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/features/featureFiles/customer" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="$PROJECT_DIR$/node_modules/cucumber" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/tests/locators/colleague/user_create_page.yml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/features/featureFiles/customer" />
+      <recent name="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/04.nft" />
+      <recent name="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/03.sit-1" />
+      <recent name="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/02.st-5" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/01.sbx" />
+      <recent name="$PROJECT_DIR$/tests/features/featureFiles/sanity-test/sbx" />
+      <recent name="$PROJECT_DIR$/tests/postman-api-test" />
+      <recent name="$PROJECT_DIR$/tests/features/featureFiles/soa-services" />
+      <recent name="$PROJECT_DIR$/tests/features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gulp.js.findDuplicates">
+    <configuration name="api_test.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/tests/features/featureFiles/colleague/api_test.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cmpcbo_962_show_client_id_and_client_name_on_create_user_check_confirm_pages.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_962_show_client_id_and_client_name_on_create_user_check_confirm_pages.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="findDuplicates" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>findDuplicates</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="selenium" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="selenium" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber.js.api_test.feature" />
+      <item itemvalue="Cucumber.js.cmpcbo_962_show_client_id_and_client_name_on_create_user_check_confirm_pages.feature" />
+      <item itemvalue="Gulp.js.default" />
+      <item itemvalue="Gulp.js.findDuplicates" />
+      <item itemvalue="npm.selenium" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.selenium" />
+        <item itemvalue="Gulp.js.findDuplicates" />
+        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="Cucumber.js.cmpcbo_962_show_client_id_and_client_name_on_create_user_check_confirm_pages.feature" />
+        <item itemvalue="Cucumber.js.api_test.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0418725-e147-49a3-a709-1f1205a488c0" name="Default Changelist" comment="" />
+      <changelist id="ee6367ec-5a56-4f72-9abb-e98c8583347b" name="Revert: 732" comment="" />
+      <changelist id="9dc1a4eb-99bf-46b6-aa97-3da8b8504a4e" name="Revert: changes for ci" comment="" />
+      <created>1541805764675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541805764675</updated>
+      <workItem from="1541805768091" duration="296000" />
+      <workItem from="1541806074519" duration="746000" />
+      <workItem from="1541806974947" duration="930000" />
+      <workItem from="1541807911102" duration="225000" />
+      <workItem from="1541808205581" duration="194000" />
+      <workItem from="1541808413591" duration="330000" />
+      <workItem from="1541808811438" duration="622000" />
+      <workItem from="1541809437138" duration="1893000" />
+      <workItem from="1541811347794" duration="368000" />
+      <workItem from="1541811730808" duration="199000" />
+      <workItem from="1542020006943" duration="2279000" />
+      <workItem from="1542025429629" duration="2177000" />
+      <workItem from="1542036483364" duration="10544000" />
+      <workItem from="1542191894245" duration="271000" />
+      <workItem from="1542196488614" duration="327000" />
+      <workItem from="1542200496099" duration="2649000" />
+      <workItem from="1542279563121" duration="5317000" />
+      <workItem from="1542374134885" duration="619000" />
+      <workItem from="1542622916744" duration="414000" />
+      <workItem from="1542635584990" duration="148000" />
+      <workItem from="1542638253267" duration="786000" />
+      <workItem from="1542639336874" duration="1177000" />
+      <workItem from="1542641003206" duration="596000" />
+      <workItem from="1542645135180" duration="574000" />
+      <workItem from="1542712144173" duration="3865000" />
+      <workItem from="1542716587583" duration="68000" />
+      <workItem from="1542716691147" duration="746000" />
+      <workItem from="1542717459486" duration="603000" />
+      <workItem from="1542718071335" duration="588000" />
+      <workItem from="1542719123774" duration="7994000" />
+      <workItem from="1542731172820" duration="599000" />
+      <workItem from="1542795632509" duration="11925000" />
+      <workItem from="1542886644823" duration="2838000" />
+      <workItem from="1542964484770" duration="18222000" />
+      <workItem from="1542989829470" duration="4040000" />
+      <workItem from="1543005601410" duration="11745000" />
+      <workItem from="1543085286765" duration="899000" />
+      <workItem from="1543224321815" duration="1165000" />
+      <workItem from="1543401649708" duration="9462000" />
+      <workItem from="1543440275712" duration="378000" />
+      <workItem from="1543580927893" duration="11835000" />
+      <workItem from="1543834506751" duration="8746000" />
+      <workItem from="1543851109190" duration="3362000" />
+      <workItem from="1544004075475" duration="14270000" />
+      <workItem from="1544087151228" duration="11600000" />
+      <workItem from="1544197126041" duration="6000" />
+      <workItem from="1544198627348" duration="182000" />
+      <workItem from="1544440534772" duration="1353000" />
+      <workItem from="1544531396839" duration="22333000" />
+      <workItem from="1544786125326" duration="295000" />
+      <workItem from="1544786423359" duration="5625000" />
+      <workItem from="1545139010321" duration="10915000" />
+      <workItem from="1545647758581" duration="2240000" />
+      <workItem from="1545906026454" duration="3563000" />
+      <workItem from="1545927672623" duration="1182000" />
+      <workItem from="1546426186200" duration="10666000" />
+      <workItem from="1546512794971" duration="401000" />
+      <workItem from="1546513599373" duration="1861000" />
+      <workItem from="1546597683766" duration="4720000" />
+      <workItem from="1546857292359" duration="17529000" />
+      <workItem from="1547031043626" duration="150000" />
+      <workItem from="1547034906537" duration="861000" />
+      <workItem from="1547464540114" duration="2868000" />
+      <workItem from="1547558269427" duration="1174000" />
+      <workItem from="1547619778544" duration="16054000" />
+      <workItem from="1547831456429" duration="953000" />
+      <workItem from="1547966800430" duration="5796000" />
+      <workItem from="1548052281689" duration="34868000" />
+      <workItem from="1548324264850" duration="601000" />
+      <workItem from="1548368201508" duration="2112000" />
+      <workItem from="1548370782278" duration="23392000" />
+      <workItem from="1548433153968" duration="3256000" />
+      <workItem from="1548437416987" duration="807000" />
+      <workItem from="1548517365030" duration="109000" />
+      <workItem from="1548672452319" duration="3806000" />
+      <workItem from="1548690331077" duration="3611000" />
+      <workItem from="1548760661082" duration="9774000" />
+      <workItem from="1548776818673" duration="16160000" />
+      <workItem from="1548861758761" duration="580000" />
+      <workItem from="1548862343382" duration="1331000" />
+      <workItem from="1548863805258" duration="11759000" />
+      <workItem from="1548945325970" duration="2483000" />
+      <workItem from="1548951457735" duration="633000" />
+      <workItem from="1548952169460" duration="4092000" />
+      <workItem from="1548957867757" duration="2477000" />
+      <workItem from="1549017246885" duration="4580000" />
+      <workItem from="1549022558918" duration="7079000" />
+      <workItem from="1549044061639" duration="4811000" />
+      <workItem from="1549281989823" duration="2810000" />
+      <workItem from="1549365316879" duration="565000" />
+      <workItem from="1549366947517" duration="21862000" />
+      <workItem from="1549622346631" duration="4007000" />
+      <workItem from="1549630420284" duration="3456000" />
+      <workItem from="1549636299012" duration="4571000" />
+      <workItem from="1550233263298" duration="7844000" />
+      <workItem from="1550572807753" duration="11091000" />
+      <workItem from="1550659243302" duration="276000" />
+      <workItem from="1550743294537" duration="4460000" />
+      <workItem from="1550823203008" duration="384000" />
+      <workItem from="1550824814071" duration="3306000" />
+      <workItem from="1551695032328" duration="2817000" />
+      <workItem from="1551709128646" duration="985000" />
+      <workItem from="1551891450734" duration="605000" />
+      <workItem from="1551968714123" duration="4619000" />
+      <workItem from="1552038025798" duration="9876000" />
+      <workItem from="1552301608646" duration="4948000" />
+      <workItem from="1552398069450" duration="5421000" />
+      <workItem from="1552471148373" duration="8640000" />
+      <workItem from="1552498342938" duration="2678000" />
+      <workItem from="1552903151906" duration="3915000" />
+      <workItem from="1552915786702" duration="911000" />
+      <workItem from="1552993133415" duration="9793000" />
+      <workItem from="1553011764997" duration="1267000" />
+      <workItem from="1553077526687" duration="25809000" />
+      <workItem from="1553249084975" duration="19832000" />
+      <workItem from="1553350338547" duration="55872000" />
+      <workItem from="1553682251576" duration="13000" />
+      <workItem from="1553684635764" duration="21077000" />
+      <workItem from="1553771608758" duration="17031000" />
+      <workItem from="1553852426602" duration="18085000" />
+      <workItem from="1553958029275" duration="474000" />
+      <workItem from="1554109633732" duration="46452000" />
+      <workItem from="1554288911144" duration="16928000" />
+      <workItem from="1554368546141" duration="642000" />
+      <workItem from="1554369780210" duration="5000" />
+      <workItem from="1554379667729" duration="2019000" />
+      <workItem from="1554454791042" duration="3091000" />
+      <workItem from="1554478727624" duration="67000" />
+      <workItem from="1554478811992" duration="1333000" />
+      <workItem from="1554715060023" duration="24154000" />
+      <workItem from="1554812554947" duration="6995000" />
+      <workItem from="1554824734267" duration="3406000" />
+      <workItem from="1554886176944" duration="7315000" />
+      <workItem from="1554897267303" duration="9328000" />
+      <workItem from="1554908792797" duration="639000" />
+      <workItem from="1554909437501" duration="30771000" />
+      <workItem from="1555276120614" duration="8101000" />
+      <workItem from="1556009779440" duration="1609000" />
+      <workItem from="1556013138380" duration="11098000" />
+      <workItem from="1556181673129" duration="4501000" />
+      <workItem from="1556198286647" duration="46521000" />
+      <workItem from="1556592285573" duration="12776000" />
+      <workItem from="1556702348400" duration="6950000" />
+      <workItem from="1556723848957" duration="1830000" />
+      <workItem from="1556787394832" duration="6022000" />
+      <workItem from="1556873570350" duration="6187000" />
+      <workItem from="1557170717446" duration="137000" />
+      <workItem from="1557176325024" duration="803000" />
+      <workItem from="1557218719756" duration="2473000" />
+      <workItem from="1557311216354" duration="6107000" />
+      <workItem from="1557482553411" duration="4917000" />
+      <workItem from="1557490933882" duration="666000" />
+      <workItem from="1557491768169" duration="957000" />
+      <workItem from="1557524283924" duration="16000" />
+      <workItem from="1557737890079" duration="7831000" />
+      <workItem from="1557757640301" duration="5239000" />
+      <workItem from="1557916062924" duration="415000" />
+      <workItem from="1557916611488" duration="554000" />
+      <workItem from="1557932448409" duration="2683000" />
+      <workItem from="1557956295641" duration="2028000" />
+      <workItem from="1557997700593" duration="8240000" />
+      <workItem from="1558108580839" duration="396000" />
+      <workItem from="1558283146358" duration="2002000" />
+      <workItem from="1558431453755" duration="10064000" />
+      <workItem from="1558533678941" duration="4256000" />
+      <workItem from="1558687692962" duration="131000" />
+      <workItem from="1558696804695" duration="3483000" />
+      <workItem from="1559047707086" duration="1090000" />
+      <workItem from="1559209878699" duration="1554000" />
+      <workItem from="1559315962565" duration="399000" />
+      <workItem from="1559725790146" duration="2327000" />
+      <workItem from="1559744410939" duration="379000" />
+      <workItem from="1559913060128" duration="740000" />
+      <workItem from="1560180415721" duration="424000" />
+      <workItem from="1560508235019" duration="1734000" />
+      <workItem from="1560761210208" duration="2651000" />
+      <workItem from="1561470736214" duration="1167000" />
+      <workItem from="1561551598045" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="api_test_feature - 2019.01.23 at 11h 00m 51s.xml">
+      <configuration name="api_test.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="api_test_feature - 2019.01.23 at 11h 19m 46s.xml">
+      <configuration name="api_test.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="cmpcbo_962_show_client_id_and_client_name_on_create_user_check_confirm_pages_feature - 2019.01.23 at 11h 20m 20s.xml">
+      <configuration name="cmpcbo_962_show_client_id_and_client_name_on_create_user_check_confirm_pages.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="api_test_feature - 2019.01.23 at 11h 20m 35s.xml">
+      <configuration name="api_test.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="Scenario__Using_data_from_a_previous____ - 2019.03.24 at 15h 36m 33s.xml">
+      <configuration name="Scenario: Using data from a previous ..." configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="cmpcbo-9999_APICKLI_user_client_details_endpoints_feature - 2019.04.25 at 15h 59m 38s.xml">
+      <configuration name="cmpcbo-9999_APICKLI_user_client_details_endpoints.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="cmpcbo-9999_APICKLI_user_client_details_endpoints_feature - 2019.04.25 at 16h 00m 54s.xml">
+      <configuration name="cmpcbo-9999_APICKLI_user_client_details_endpoints.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="cmpcbo-9999_APICKLI_user_client_details_endpoints_feature - 2019.04.29 at 14h 18m 13s.xml">
+      <configuration name="cmpcbo-9999_APICKLI_user_client_details_endpoints.feature" configurationId="cucumber.js" />
+    </history-entry>
+    <history-entry file="cmpcbo-999_APICKLI_user_client_details_endpoints_feature - 2019.05.01 at 16h 11m 01s.xml">
+      <configuration name="cmpcbo-999_APICKLI_user_client_details_endpoints.feature" configurationId="cucumber.js" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1021680000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7284992" visible="true" weight="0.39180228" />
+      <window_info id="Structure" order="1" sideWeight="0.5021834" side_tool="true" weight="0.30091614" />
+      <window_info id="Gulp" order="2" sideWeight="0.5020979" side_tool="true" weight="0.30091614" />
+      <window_info id="npm" order="3" sideWeight="0.27150086" side_tool="true" weight="0.26434967" />
+      <window_info id="Favorites" order="4" sideWeight="0.5021834" side_tool="true" weight="0.30091614" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3229491" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45379025" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3978022" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3284055" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49909583" weight="0.3281412" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5063291" side_tool="true" weight="0.403946" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49367088" visible="true" weight="0.34060228" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32958034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_309_form_validation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_2130_create_user_sessionTimeOut.feature" />
+    <entry file="file://$PROJECT_DIR$/tests/conf/ci-customer.cuke.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2451">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/reports/output-html/cmpcbo2130__create_user_session_timeout.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/postman-api-test/postman-test-runner.js" />
+    <entry file="file://$PROJECT_DIR$/tests/reports/postman-reports/cmp-cbo-api-test-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_55_PA_user_navigation_for_assign_role_page.feature" />
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_56_PA_user_set_home_page.feature" />
+    <entry file="file://$PROJECT_DIR$/tests/reports/output-html/cmpcbo1451__pa_user_details_captured_readonly_on_check_and_confirm_page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/CMPCBO-200_issue_Welcome_Email.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/reports/output/cmpcbo74_sanitytestcheck_and_confirm_new_user_details.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/reports/output-html/cmpcbo74_sanitytestcheck_and_confirm_new_user_details.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_2132_Masthead_for_CWA_Colleague.feature" />
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_2133_footer_on_CWA_Colleague.feature" />
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_2128_masthead_and_navigation.feature" />
+    <entry file="file://$PROJECT_DIR$/tests/endpoints_&amp;_urls/testEnvironments.js" />
+    <entry file="file://$PROJECT_DIR$/tests/endpoints_&amp;_urls/soaEndpoints.js" />
+    <entry file="file://$PROJECT_DIR$/tests/conf/sauce.lab.conf.js" />
+    <entry file="file://$PROJECT_DIR$/tests/endpoints_&amp;_urls/genericURLs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4142">
+          <caret line="218" column="8" selection-start-line="218" selection-start-column="8" selection-end-line="218" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/endpoints_&amp;_urls/apiEndpoints.js" />
+    <entry file="file://$PROJECT_DIR$/tests/features/support/afterHooks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/support/config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_34_search_ocb_bpid.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/step_definitions/verification-steps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtest.sh" />
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_1323_empty_confirm_email_field_on_check_and_confirm_page.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/step_definitions/navigation-steps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="320">
+            <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_732_client_admins_EDIT_user_details_on_check_and_confirm_page.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_729_navigate_user_details_page_create_a_new_user_wizard_1.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_439_capture_user_details_validation.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_552_wire_assign_role_values_to_check_and_confirm_page.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_707_assign_home_page_client_edit_user_details.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_708_edit_user_details_displayed_on_check_and_confirm_page.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/conf/ci-sanity-sauce-test.cuke.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/conf/ci-sanity-test.cuke.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_2166d_Edit_user_Updates_to_CWA_country_list_to_align_with_CBO.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_259_edit_user_assign_division_and_roles.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_258_edit_user_capture_user_details.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_253_client_admins_review_check_and_confirm_page.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/customer/cmpcbo_54_colleague_capture_user_details.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_37_check_and_confirm_client.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1449_PA_user_capture_user_details_validation.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1450_PA_user_navigation_buttons_for_journey.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1451_PA_user_details_captured_on_check_and_confirm_page.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1469_maker_colleague_view_workflow_in_pending_status_self_created.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1471_PA_user_modal_window_with_error_message_for_email_id_already_in_use.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_1470_PA_user_Error_message_for_existing_User_name_or_email_ID_entered_for_PA_user.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/features/featureFiles/colleague/cmpcbo_40_complete_admin_user_details.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
