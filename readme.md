@@ -1,9 +1,3 @@
-#### Created By: Lawrence Ajayi
-
-Lloyds UI Testing Automation framework
-======================================
-**************************************************** CMP QA Team **************************
-#### Introduction
 
 This Documents walks you through the Installation and Script creation steps through which you can start creating your Automation Scenarios using WebdriverIO and Cucumber.js
 
